@@ -1,0 +1,3 @@
+<hr style="margin:0;background-color:silver">
+<small style="color: gray;">🛡️Please report cheating, plagiarism, question hoarding,&nbsp;and ethics issues to the course instructors and/or question authors: <a href="https://www.linkedin.com/in/olegmelnikov/" target="_blank">Oleg Melnikov</a> and <a href="https://www.hse.ru/edu/courses/?filial=22723&amp;lecturer=409923484&amp;year=2021" target="_blank">ML Teaching Team</a>, ©<a href="https://www.hse.ru/en/" target="_blank">HSE</a> 2021 onwards</small>
+
